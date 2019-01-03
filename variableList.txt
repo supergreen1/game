@@ -1,9 +1,8 @@
-$hairColor
-$skinTone
-$eyeColor
-$cockSize
-$hairLength
-$ST
-$IQ
-$energy
-$
+$hairColor - player's hair color: "brown" "black" "blonde" "red" 
+$skinTone - player's skin tone: "pale" "dark" "tanned"
+$eyeColor - player's eye color: "blue" "green" "brown" 
+$cockSize - player's cock size: "tiny" "small" "average" "big" "massive"
+$hairLength - player's hair length: "bald" "short" "medium" "long"
+$ST - player's strength: numeral variable - used for physical tasks
+$IQ - player's intelligence: numberal variable - used for mental tasks
+$energy - energy level: numeral variable - used to determined number of tasks that can be completed in a day.
