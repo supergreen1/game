@@ -1,0 +1,9 @@
+$hairColor
+$skinTone
+$eyeColor
+$cockSize
+$hairLength
+$ST
+$IQ
+$energy
+$
